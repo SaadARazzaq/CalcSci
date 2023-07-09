@@ -4,6 +4,7 @@ CalcSci is a scientific calculator programmed in C++. It provides a wide range o
 
 ## Features
 
+With over 55+ Calculation Modes to choose from 😎, Including:
 - Arithmetic operations: Addition, subtraction, multiplication, division, modulo, and power.
 - Scientific functions: Square, cube, square root, exponential, logarithm (natural and base 10), trigonometric functions (sine, cosine, tangent), inverse trigonometric functions (arcsine, arccosine, arctangent), hyperbolic functions (sine, cosine, tangent), factorial, and prime number checking.
 - Additional mathematical properties: Even/odd number checking and perfect number checking.
