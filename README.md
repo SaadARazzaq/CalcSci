@@ -1,4 +1,6 @@
 # CalcSci - Scientific Calculator 🔥
+ [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://github1s.com/SaadARazzaq/CalcSci/blob/main/src.cpp)
+
 
 CalcSci is a scientific calculator programmed in C++. It provides a wide range of mathematical operations, including arithmetic calculations, scientific functions, number system conversions, and more. With CalcSci, you can perform complex calculations and explore various mathematical concepts.
 
